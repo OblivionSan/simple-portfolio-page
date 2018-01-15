@@ -15,6 +15,11 @@ $ git clone https://github.com/OblivionSan/simple-portfolio-page.git
 
 Edit whatever you want to change, don't ask me to do it.
 
+**Remove .gif from the source to clear up any unnecessary used up disk space.**
+```
+./img/example.gif
+```
+
 ![Example](img/example.gif)
 
 ## Built with
