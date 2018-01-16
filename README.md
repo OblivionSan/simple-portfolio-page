@@ -1,8 +1,8 @@
 # simple-portfolio-page
-[![GitHub License](https://img.shields.io/github/license/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/network)
-[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/discord-bot-example/issues)
+[![GitHub License](https://img.shields.io/github/license/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/simple-portfolio-page/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/simple-portfolio-page/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/simple-portfolio-page/network)
+[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/simple-portfolio-page.svg?style=flat-square)](https://github.com/OblivionSan/simple-portfolio-page/issues)
 
 > A simple portfolio page with some simple animations.
 
